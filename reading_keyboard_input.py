@@ -31,7 +31,7 @@ print(type(x))
 x = 5
 print('The number is ' + str(x))
 
-# Solicita 2 números y luego los suma
+# Solicita 2 valores los transforma en números y luego los suma
 
 first_number = int(input('Type the first number: ')) ;\
 second_number = int(input('Type the second number: ')) ;\
