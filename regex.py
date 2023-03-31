@@ -1,3 +1,5 @@
+# Diferentes lineas de codigo para ejemplificar el uso de REGEX en Python
+
 import re
 
 pattern = r'ab'
