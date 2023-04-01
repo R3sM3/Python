@@ -1,5 +1,7 @@
 # Desafio del curso de Python realizado en CloudAcademy.
 
+# Desafio #1
+
 import re
 # pattern = r'.'
 # Example text to search:
@@ -12,6 +14,7 @@ matches = re.findall(pattern, text)
 print(f"{matches}")
 
 
+# Desafio #2
 
 import re
 pattern = r'ho{1,2}p'
@@ -24,6 +27,7 @@ matches = re.findall(pattern, text)
 print(f"{matches}")
 
 
+# Desafio #3
 
 import re
 pattern = r'.*://(.*)'
@@ -35,6 +39,8 @@ text = 'https://cloudacademy.com'
 matches = re.findall(pattern, text)
 print(f"{matches}")
 
+
+# Desafio #4
 
 import re
 
@@ -54,6 +60,7 @@ print(f"{matches}")
 # ['space1', '2apple', 'brush3']
 
 
+# Desafio #5
 
 import re
 
