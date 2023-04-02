@@ -1,5 +1,7 @@
 #! /usr/bin/python3
+
 import sys
+
 sys.version_info[0]
 lab_exercise = "Format"
 lab_type = "lab-code"
@@ -7,12 +9,13 @@ python_version = ("%s.%s.%s" % (sys.version_info[0], sys.version_info[1], sys.ve
 print("Exercise: %s" % (lab_exercise))
 print("Type: %s" % (lab_type))
 print("Python: %s\n" % (python_version))
+
 #====================================
-data = "cloudacademy.PYTHON.2019"
+data = "cloudacademy.PYTHON.2023"
 data_spaces = " DevOps"
 letter1 = 'a'
 word1 = 'cloud'
-num1 = '2019'
+num1 = '2023'
 
 #CODE1: Strip format string
 print("CODE1:")
