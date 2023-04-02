@@ -9,10 +9,10 @@ print("Exercise: %s" % (lab_exercise))
 print("Type: %s" % (lab_type))
 print("Python: %s\n" % (python_version))
 #====================================
-data = "cloudacademy.python.2019"
+data = "cloudacademy.python.2023"
 letter1 = 'a'
 word1 = 'cloud'
-num1 = '2019'
+num1 = '2023'
 
 #CODE1: Find word/letter in string
 print("CODE1:")
@@ -24,7 +24,7 @@ print()
 
 #CODE2: Check string endswith and/or startswith another string
 print("CODE2:")
-print(f"endswith = {data.endswith('2019')}")
+print(f"endswith = {data.endswith('2023')}")
 print(f"startswith = {data.startswith(letter1)}")
 print()
 
