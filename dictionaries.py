@@ -1,4 +1,8 @@
 #! /usr/bin/python3
+
+# Programas Python relizados desde curso de CLoudAcademy
+
+
 import sys
 sys.version_info[0]
 lab_exercise = "Dictionaries"
