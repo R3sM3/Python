@@ -23,6 +23,7 @@ def string_fun(string):
 	# Do not change the code after this
 	return details
 
+
 if __name__ == '__main__':
 	print(string_fun('Hello World!'))
 print(string_fun('ThisIsAChallenge'))
