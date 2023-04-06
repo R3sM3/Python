@@ -112,7 +112,7 @@ enum34==1.1.10
 fabric==2.7.1
 filelock==3.9.0
 Flask==2.2.3
-future==0.18.2
+future==0.18.3
 humanfriendly==10.0
 humanize==3.9.0
 idna==3.4
