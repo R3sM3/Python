@@ -111,7 +111,7 @@ docopt==0.6.2
 enum34==1.1.10
 fabric==2.7.1
 filelock==3.9.0
-Flask==2.2.3
+Flask==2.3.2
 future==0.18.2
 humanfriendly==10.0
 humanize==3.9.0
