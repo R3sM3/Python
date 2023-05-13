@@ -1,6 +1,10 @@
 # Direccion de donde se extrajo el codigo
 # https://medium.com/python-in-plain-english/extracting-data-from-pdf-files-with-python-and-pdfquery-de84e9232b62
 #
+#	Otra pagina interesante para estudiar es:
+#
+#	Python — Working with PDF file : https://medium.com/@olabisisulaiman/python-working-with-pdf-file-4e78c5b6bae2
+#
 
 import pdfquery
 import pandas as pd
