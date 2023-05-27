@@ -1,3 +1,8 @@
+#  Este codigo fue extraido desde la siguiente pagina
+#  https://medium.com/@naseer1015922/5-killer-python-scripts-for-automation-part1-e83383740154
+#  Fue creado por https://medium.com/@naseer1015922
+
+
 import socket
 
 # create socket
