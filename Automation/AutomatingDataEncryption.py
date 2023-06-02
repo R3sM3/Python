@@ -2,7 +2,6 @@
 #  https://medium.com/@naseer1015922/5-killer-python-scripts-for-automation-part-2-33d7aa84cedc
 #  Fue creado por https://medium.com/@naseer1015922
 
-
 import os
 from cryptography.fernet import Fernet
 from cryptography.hazmat.backends import default_backend
