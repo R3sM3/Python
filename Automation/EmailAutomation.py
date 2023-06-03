@@ -2,7 +2,6 @@
 #  https://medium.com/@naseer1015922/5-killer-python-scripts-for-automation-part1-e83383740154
 #  Fue creado por https://medium.com/@naseer1015922
 
-
 import smtplib
 from email.mime.text import MIMEText
 
